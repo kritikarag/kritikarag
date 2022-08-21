@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kritika Rag</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Computer Science Undergraduate, Software Developer and Data Science Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Sciene,Web Development**
+- 🌱 I’m currently learning **Data Science,Web Development**
 
 - 💬 Ask me about **Data Structures, Data Analysis, Machine Learning**
 
