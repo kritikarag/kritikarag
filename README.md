@@ -6,7 +6,7 @@
 - 💬 Ask me about **Data Structures, Data Analysis, Machine Learning**
 
 <h3>Don't Judge Me With This (Profile is under Progress) :p </h3>
-<h3 align="left">Connect with me:</h3>
+<h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/kritika-rag-ba4306214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/kritika-rag-ba4306214" height="30" width="40" /></a>
 <a href="https://kaggle.com/kritikarag" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kritikarag" height="30" width="40" /></a>
