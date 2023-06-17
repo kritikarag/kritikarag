@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kritika Rag</h1>
 <h3 align="center">A passionate Computer Science Undergraduate, Software Developer and Data Science Enthusiast</h3>
 
-- 🌱 I’m currently learning **Data Science,Web Development**
+- 🌱 I’m currently learning **Data Science and Full Stack Development**
 
-- 💬 Ask me about **Data Structures, Data Analysis, Machine Learning**
+- 💬 Ask me about **Data Structures, Data Analysis, and Machine Learning**
 
-<h3>Don't Judge Me With This (Profile is under Progress) :p </h3>
+
 <h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/mwlite/in/kritika-rag-ba4306214" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/mwlite/in/kritika-rag-ba4306214" height="30" width="40" /></a>
